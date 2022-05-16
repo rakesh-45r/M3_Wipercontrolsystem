@@ -10,23 +10,35 @@ the wiper system, which will be control with Frequency.
 ## COMPONENTS AND SUPPLIES:
 
 -> STM32F407 Discovery Board
+
 -> Push Button
+
 -> LEDs
+
 -> Resistors
+
 -> Power Supply
 
 ## ADVANTAGES:
 -> To save money during wet seasons, turn off the irrigation system. Electricity bills are lowered as a consequence.
+
 -> Rain sensors store water during rain events, allowing it to be available throughout the summer and winter.
+
 -> As a consequence, rain sensor-based equipment like vehicle wipers and irrigation systems last longer since they only work when needed.
+
 -> It is quite simple to use.
+
 -> As a consequence, less energy is consumed.
+
 -> Rain sensor-based systems are extremely simple to install.
+
 -> Individual rain sensors are fairly inexpensive.
 
 ## DISADVANTAGES:
 -> When water falls squarely on the rain sensor, the mechanism activates.
+
 -> The entire system cost rises when more components, including a rain sensor, are required.
+
 -> Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
 
 ## Objective
@@ -69,3 +81,35 @@ You can adjust the speed of the car wiper system according to the rainfall.
 * To go with best compiler use CODE BLOCKS.
 * In CODE BLOCKS you can also RUN the program in both LINUX and WINDOWS.
 
+# SWOT ANALYSIS
+
+## STRENGTH
+* Low Budget
+* Good Reputation
+* High Bargaining Power Supliers
+* Big Influence on the Market
+
+## WEAKNESS
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Week Focus on Process Innovations
+
+## OPPRONUTIES
+* Emerging New Markets
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+
+## THREATS
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
+
+## CONCLUSION
+* Wiper system is controlled by using STM32 and ARM based microcontroller.
+
+## REFERENCE
+* Referred push button to control the LED's of STM32.
+Surefed in internet regarding CODING.
