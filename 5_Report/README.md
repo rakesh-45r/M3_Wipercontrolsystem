@@ -28,3 +28,32 @@ the wiper system, which will be control with Frequency.
 -> When water falls squarely on the rain sensor, the mechanism activates.
 -> The entire system cost rises when more components, including a rain sensor, are required.
 -> Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
+
+## Objective
+The goal of this project is to know about the Wiper Control System.There will be one blue colour button on STM32.If we long press it the car 
+will start Ignition and Just by Clicking it the Speed can be Change by changing the frequency.
+
+## SOFTWARES
+The below tools and packages are needed to work with STM32 Controllers with Qemu Support
+* Installable
+* GNU Toolchain
+* STM Cube IDE
+* Xpack Packages
+* Windows Build Tools
+* Open OCD
+* Qemu
+
+## 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
+
+## WHAT
+The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions. 
+## WHEN
+The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+## WHO
+A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions
+# WHERE
+In general, car wipers are controlled by the stalk on the right side of the steering wheel.
+## HOW
+You can adjust the speed of the car wiper system according to the rainfall.
+
+
